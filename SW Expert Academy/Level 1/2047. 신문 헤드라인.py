@@ -1,2 +1,2 @@
 n = input()
-print('#' * n, end=' ')
+print(n.upper())
